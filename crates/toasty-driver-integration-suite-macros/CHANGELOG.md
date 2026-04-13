@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.0](https://github.com/tokio-rs/toasty/compare/toasty-driver-integration-suite-macros-v0.3.0...toasty-driver-integration-suite-macros-v0.4.0) - 2026-04-13
+
+### Other
+
+- release v0.4.0 ([#631](https://github.com/tokio-rs/toasty/pull/631))
+
 ## [0.3.0](https://github.com/tokio-rs/toasty/compare/toasty-driver-integration-suite-macros-v0.2.0...toasty-driver-integration-suite-macros-v0.3.0) - 2026-04-03
 
 ### Other
